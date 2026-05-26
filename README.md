@@ -1,4 +1,8 @@
-<h2 align="left">Hey 👋 I’m Onekt <br>I build intelligent systems at the intersection of AI and hardware, from low-level device control to scalable machine learning infrastructure. <br>enjoy !!</h2>
+<h2 align="left">Hey 👋 I’m Onekt <br>I build intelligent systems at the intersection of AI and hardware, from low-level device control to scalable machine learning infrastructure.<br> a Qt Service Partner specializing in Qt, C++, and embedded cross-platform development. 
+
+help companies in MedTech, industrial, and regulated industries build reliable, production-ready systems. From architecture and prototyping to full product delivery.<br> my focus is always performance, scalability, and compliance.
+
+<br>On this channel, we share practical insights on Qt, QML, C++, multithreading, embedded systems, and real-world case studies from projects we delivered<br>enjoy !!</h2>
 
 ###
 
