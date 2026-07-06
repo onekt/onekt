@@ -1,3 +1,3 @@
-👉 This repo is PRIVATE
+👉 This github is PRIVATE
       
 
